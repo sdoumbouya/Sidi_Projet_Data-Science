@@ -1,5 +1,5 @@
 # Sidi_Projet_Data-Science
-Au cours de ma formation de Full Stack à JEDHA Bootcamp, j’ai appris **les langages de programmation (Python et SQL)** et réalisé plusieurs projets (individuels et en Binôme) en data Science sur des sujets variés notamment en : Data Visualization, Machine Learning, Deep Learning (Image Processing et Natural Language Processing) avec l’utilisation de différentes librairies (Scikit-learn, Pandas, Numpy, Matplotlib, Seaborn, TensorFlow, Spacy). 
+Au cours de ma formation de Full Stack à JEDHA Bootcamp, j’ai appris **les langages de programmation (Python et SQL)** et réalisé plusieurs projets (individuels et en Binôme) en data Science sur des sujets variés notamment en : **Data Visualization, Machine Learning, Deep Learning (Image Processing et Natural Language Processing)** avec l’utilisation de différentes librairies **(Scikit-learn, Pandas, Numpy, Matplotlib, Seaborn, TensorFlow, Spacy)**. 
 ## Data Visualization :
 
 ### Projet 1 -- Speed Dating Challenge
@@ -11,7 +11,7 @@ Nous avons donc fait une analyse descriptive des principaux facteurs qui influen
 
 ### Projet 2 -- Conversion rate challenge
 
-Le Taux de Conversion web est un indicateur clé de performance permettant de mesurer la performance marketing d’un site web ou l’efficacité d’une campagne de web marketing. 
+Le **Taux de Conversion web** est un indicateur clé de performance permettant de mesurer la performance marketing d’un site web ou l’efficacité d’une campagne de web marketing. 
 Optimiser des taux de conversion est une des tâches les plus importantes d'un Data Scientist.
 Dans ce projet, on nous demandait d'utiliser nos connaissances en Machine Learning Supervisé pour construire le meilleur modèle qui permettra de prédire le taux de conversion des clients sur un site web et faire des recommandations à l’équipe marketing afin d'augmenter ces revenus.
 
@@ -30,13 +30,13 @@ Nous proposons plusieurs modèles afin de trouver la meilleure prédiction des t
 
 ### Projet 4 -- UBER PICKUPS - Challenge
 
-Le but de ce projet était d'optimiser les points stratégiques des chauffeurs ***Uber*** dans la ville de New York en utilisant les techniques de clustering en Machine Learning. Pour ce faire, nous avons essayer de répondre aux questions suivantes
+Le but de ce projet était d'optimiser les points stratégiques des chauffeurs ***Uber*** dans la ville de New York en utilisant les **techniques de clustering** en Machine Learning. Pour ce faire, nous avons essayé de répondre aux questions suivantes
 
 •	Trouver le nombre de clusters optimum qui permet aux chauffeurs UBER de maximiser leurs chances de trouver des courses en fonction des périodes de la journée
 
 •	Localiser ces clusters sur une map
 
-•	Regarder la différence entre KMeans et DBSCAN
+•	Regarder la différence entre **KMeans et DBSCAN**
 
 ## Deep Learning (Image Processing and Natural Language Processing)
 
