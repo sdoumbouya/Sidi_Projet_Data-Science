@@ -19,14 +19,18 @@ Dans ce projet, on nous demandait d'utiliser nos connaissances en Machine Learni
 
 Le but de ce projet était de construire un modèle qui permet de prédire la probabilité de transactions frauduleuses sur un site **E-commerce**. Nous avons utilisé un dataset provenant d'une entreprise anonyme qui vend des vêtements en ligne. 
 Nous proposons plusieurs modèles afin de trouver la meilleure prédiction des transactions frauduleuses. Ce travail a été structuré de la manière suivante :
+
 •	L'exploration et la préparation des données,
+
 •	La visualisation des données,
+
 •	La corrélation des variables,
+
 •	Les modèles de Machine Learning
 
 ### Projet 4 -- UBER PICKUPS - Challenge
 
-Le but de ce projet était d'optimiser les points stratégiques des chauffeurs Uber dans la ville de New York en utilisant les techniques de clustering en Machine Learning. Pour ce faire, nous avons essayer de répondre aux questions suivantes
+Le but de ce projet était d'optimiser les points stratégiques des chauffeurs ***Uber*** dans la ville de New York en utilisant les techniques de clustering en Machine Learning. Pour ce faire, nous avons essayer de répondre aux questions suivantes
 
 •	Trouver le nombre de clusters optimum qui permet aux chauffeurs UBER de maximiser leurs chances de trouver des courses en fonction des périodes de la journée
 
