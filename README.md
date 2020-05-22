@@ -21,11 +21,8 @@ Le but de ce projet était de construire un modèle qui permet de prédire la pr
 Nous proposons plusieurs modèles afin de trouver la meilleure prédiction des transactions frauduleuses. Ce travail a été structuré de la manière suivante :
 
 •	L'exploration et la préparation des données,
-
 •	La visualisation des données,
-
 •	La corrélation des variables,
-
 •	Les modèles de Machine Learning
 
 ### Projet 4 -- UBER PICKUPS - Challenge
