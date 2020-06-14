@@ -54,5 +54,5 @@ Ici, notre objectif éait de prédire si un Tweet annonce une vraie catastrophe 
 
 Dans ce projet, nous avons créer une application via le microframework (FLASK) qui permet à l'utilisateur d'entrer un SMS dans un formulaire. Ensuite, notre application devait être capable de lire ce message et de prédire si ce texte est un SPAM ou non.
 
-## Projet 8 -- Projet de fin de formation (Predicting Primary School Achievement with School-Related & Socioeconomic Factors)
-L'ojectif de ce travail est de prédire la réussite scolaire de l'élève compte tenu des caractéristiques socioéconomique de son milieu. Au passage, un accent est mis sur la distance qui sépare le domicile de l'élève et son école en prenant en compte les moyens d'accès à lécole. Mots clés: **Data Exploration & Visualisation, Correlation Matrix, Machine Learning non-suprvisé (KMeans Clustering, DBSCAN), Machine Learning Supervisé (Random Forest, Grandient Boosting, AdaBoost, XGBoost)** 
+## Projet 8 -- Projet fin de formation (Predicting Primary School Achievement with School-Related and Socioeconomic Factors)
+L'ojectif de ce travail est de prédire la réussite scolaire de l'élève compte tenu des caractéristiques socioéconomique de son milieu. Au passage, un accent est mis sur la distance qui sépare le domicile de l'élève et son école en prenant en compte les moyens d'accès à lécole. Mots clés: Data Exploration & Visualisation, Correlation Matrix, Machine Learning non-suprvisé **(KMeans Clustering, DBSCAN)**, Machine Learning Supervisé **(Random Forest, Grandient Boosting, AdaBoost, XGBoost)** 
