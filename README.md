@@ -56,5 +56,4 @@ Dans ce projet, nous avons créer une application via le microframework (FLASK) 
 
 ## Projet 8 -- Projet fin de formation (Predicting Primary School Achievement with School-Related and Socioeconomic Factors)
 L'ojectif de ce travail est de prédire la réussite scolaire de l'élève compte tenu des caractéristiques socioéconomique de son milieu. Au passage, un accent est mis sur la distance qui sépare le domicile de l'élève et son école en prenant en compte les moyens d'accès à lécole. 
-
 Mots clés: Data Exploration & Visualisation, Correlation Matrix, Machine Learning non-suprvisé **(KMeans Clustering, DBSCAN)**, Machine Learning Supervisé **(Random Forest, Grandient Boosting, AdaBoost, XGBoost)** 
